@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@theme {
+  --font-sans: "Urbanist", sans-serif;
+}
+button {
+  cursor: pointer;
+}
