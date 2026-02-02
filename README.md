@@ -28,7 +28,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you added to improve the site's functionality!
+- [x] Loading spinners letting user know when the page is loading due to an api call processing.
 
 ## Video Walkthrough
 
